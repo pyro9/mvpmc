@@ -662,7 +662,8 @@ char* vlc_get_video_transcode()
 		fps = "25.0000";
 	} else {
 		canvas_height = "480";
-		fps = "29.9700";
+//		fps = "29.9700";
+		fps = "30";
 	}
 
 	/* bitrate settings */
